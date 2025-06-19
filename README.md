@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Suriya!
 
-<!--
-**suriya-14/Suriya-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing **B.Tech in Artificial Intelligence & Data Science** at **SNS College of Engineering**, Coimbatore.
 
-Here are some ideas to get you started:
+🚀 I'm passionate about technology, AI, and helping solve real-world problems through data and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack & Tools
+
+- 💻 Languages: Python, HTML
+- ⚙️ Tools: Git, GitHub, VS Code, Jupyter Notebook, MySQL, PowerBI
+- 📊 Interests: Machine Learning, Data Science, Web Development, Open Source
+- 🌱 Currently learning: German Language (for higher studies)
+
+---
+
+## 🏆 Achievements
+
+- 🏀 **District-level Basketball Champion**
+- 🎓 Working on a project to help Farmers through a smart distribution system - **Leftover** 
+- 🤖 Built multiple ML models and web apps during academiropsc and personal projects
+
+---
+
+## 🎯 Goals
+
+- 🔜 Short-term: Pursue higher studies in **Germany**
+- 🏢 Long-term: Secure a high-paying role at a top **MNC** in AI/Data Science
+- 🧠 Inspiration: **Roman Reigns** – "Believe in yourself and push through limits."
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/suriya-v-g-)
+- 🔗 [Leetcode](https://leetcode.com/u/SURIYA_V_G/)
+- 📧 Email: `vgsuriya@gmail.com`
+- 💬 Languages: Tamil, English, German(basics)
+
+---
+
+> “Discipline, ambition, and heart will take you further than talent alone.” – 🛡️ Suriya
+
