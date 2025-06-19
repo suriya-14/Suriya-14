@@ -26,7 +26,7 @@
 ## 🎯 Goals
 
 - 🔜 Short-term: Pursue higher studies in **Germany**
-- 🏢 Long-term: Secure a high-paying role at a top **MNC** in AI/Data Science
+- 🏢 Long-term: Secure a job at **Tesla** as AI engineer 
 - 🧠 Inspiration: **Roman Reigns** – "Believe in yourself and push through limits."
 
 ---
