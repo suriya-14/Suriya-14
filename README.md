@@ -36,7 +36,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/suriya-v-g-)
 - 🔗 [Leetcode](https://leetcode.com/u/SURIYA_V_G/)
 - 📧 Email: `vgsuriya@gmail.com`
-- 💬 Languages: Tamil, English, German(basics)
+- 💬 Languages: Tamil, English
 
 ---
 
