@@ -212,16 +212,6 @@ suriya = {
 
 ---
 
-<h2 align="center">🗺️ Goals</h2>
-
-```
-SHORT TERM ──► Higher Studies in Germany 🇩🇪
-LONG TERM  ──► Machine Learning Engineer @ MNC 🏢
-ALWAYS     ──► Build ML systems that actually help people ⚡
-```
-
----
-
 <div align="center">
 
 <h2 align="center">📫 Connect With Me</h2>
