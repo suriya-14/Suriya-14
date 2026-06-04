@@ -1,0 +1,45 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="40%" style="stop-color:#0f2027"/>
+      <stop offset="75%" style="stop-color:#1a3a4a"/>
+      <stop offset="100%" style="stop-color:#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#38bdf8;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#38bdf8;stop-opacity:0.05"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="220" fill="url(#bgGrad)"/>
+
+  <!-- Wave shape bottom -->
+  <path d="M0,160 C200,120 400,180 600,150 C800,120 1000,170 1200,140 L1200,220 L0,220 Z" fill="url(#waveGrad)"/>
+  <path d="M0,180 C300,150 500,200 700,170 C900,140 1100,185 1200,160 L1200,220 L0,220 Z" fill="#38bdf8" fill-opacity="0.07"/>
+
+  <!-- Dot grid decoration -->
+  <g fill="#38bdf8" fill-opacity="0.12">
+    <circle cx="60" cy="40" r="2"/><circle cx="100" cy="60" r="2"/><circle cx="140" cy="30" r="2"/>
+    <circle cx="80" cy="80" r="1.5"/><circle cx="120" cy="100" r="1.5"/><circle cx="40" cy="110" r="1.5"/>
+    <circle cx="1100" cy="40" r="2"/><circle cx="1140" cy="70" r="2"/><circle cx="1060" cy="30" r="2"/>
+    <circle cx="1080" cy="90" r="1.5"/><circle cx="1160" cy="110" r="1.5"/>
+  </g>
+
+  <!-- Accent line -->
+  <line x1="380" y1="108" x2="820" y2="108" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.4"/>
+
+  <!-- Main name text -->
+  <text x="600" y="100" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="700" fill="#f0f6fc" text-anchor="middle" filter="url(#glow)" letter-spacing="2">Suriya V G</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="145" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="400" fill="#38bdf8" text-anchor="middle" letter-spacing="4">AI &amp; DATA SCIENCE ENGINEER</text>
+</svg>
