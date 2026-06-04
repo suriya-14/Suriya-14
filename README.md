@@ -1,10 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:1a3a4a,100:38bdf8&height=220&section=header&text=Suriya%20V%20G&fontSize=56&fontAlignY=38&fontColor=f0f6fc&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=60&descSize=20&descColor=38bdf8&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <!-- Profile Photo -->
-<img src="https://avatars.githubusercontent.com/suriya-14" width="130" height="130" style="border-radius: 50%; border: 3px solid #38bdf8;" alt="Suriya V G"/>
+<img src="https://avatars.githubusercontent.com/u/suriya-14" width="130" height="130" style="border-radius: 50%; border: 3px solid #38bdf8;" alt="Suriya V G"/>
 
 <br/><br/>
 
@@ -20,7 +21,11 @@
 
 ---
 
+<div align="center">
+
 ## ⚡ About Me
+
+</div>
 
 ```python
 suriya = {
@@ -38,19 +43,23 @@ suriya = {
 
 ---
 
-## 👥 Recruiter Spotlight
+<div align="center">
+
+## 🎯 Domain Expertise
 
 > **Two domains. One engineer. Pick your lane.**
+
+</div>
 
 <table>
 <tr>
 
 <!-- ──── LEFT: ML DOMAIN ──── -->
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top">
 
 <div align="center">
 
-### 🤖 For ML / AI Recruiters
+### 🤖 ML / AI Engineer
 
 *"I build real-time intelligent systems — from model training to live inference."*
 
@@ -98,6 +107,8 @@ suriya = {
 
 ---
 
+<div align="center">
+
 **🔧 ML Tech Stack**
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -107,14 +118,16 @@ suriya = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
+</div>
+
 </td>
 
 <!-- ──── RIGHT: DATA ANALYTICS DOMAIN ──── -->
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top">
 
 <div align="center">
 
-### 📊 For Data Analytics Recruiters
+### 📊 Data Analytics Engineer
 
 *"I transform raw data into visual stories that actually drive decisions."*
 
@@ -161,6 +174,8 @@ suriya = {
 
 ---
 
+<div align="center">
+
 **🔧 Analytics Tech Stack**
 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
@@ -170,6 +185,8 @@ suriya = {
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
+</div>
+
 </td>
 
 </tr>
@@ -177,9 +194,9 @@ suriya = {
 
 ---
 
-## 📈 GitHub Stats
-
 <div align="center">
+
+## 📈 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=suriya-14&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=8b949e&ring_color=38bdf8" height="165"/>
 &nbsp;
@@ -187,25 +204,33 @@ suriya = {
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=suriya-14&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="165"/>
+<img src="https://streak-stats.demolab.com?user=suriya-14&theme=dark&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=8b949e" height="165"/>
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 🏆 Achievements
 
 | 🏅 | Achievement |
-|---|---|
+|:---:|:---|
 | 🏀 | District-level Basketball Champion |
 | 🤖 | Built 3+ real-time ML systems (MicroMind, WakeVision, EchoAid) |
 | 📊 | Netflix Analytics Hub — 5-page interactive Power BI dashboard |
 | 🌐 | WebGen Technology — designed & built company website |
 | 🎯 | MSME Hackathon participant with EchoAid |
 
+</div>
+
 ---
 
-## 🎯 Goals
+<div align="center">
+
+## 🗺️ Goals
+
+</div>
 
 ```
 SHORT TERM ──► Higher Studies in Germany 🇩🇪
@@ -215,22 +240,20 @@ ALWAYS     ──► Build ML systems that actually help people ⚡
 
 ---
 
-## 📫 Connect With Me
-
 <div align="center">
+
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suriya-v-g-)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SURIYA_V_G/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vgsuriya@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suriya-14)
 
-</div>
-
 ---
 
-<div align="center">
+## 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suriya-14&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f0f6fc&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suriya-14&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true&custom_title=Suriya's%20Contribution%20Graph" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0d1117&height=100&section=footer" width="100%"/>
 
