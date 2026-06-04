@@ -5,7 +5,7 @@
 <br/>
 
 <!-- Profile Photo -->
-<img src="https://avatars.githubusercontent.com/u/suriya-14" width="130" height="130" style="border-radius: 50%; border: 3px solid #38bdf8;" alt="Suriya V G"/>
+<img src="https://github.com/suriya-14.png" width="130" height="130" style="border-radius: 50%;" alt="Suriya V G"/>
 
 <br/><br/>
 
@@ -21,11 +21,7 @@
 
 ---
 
-<div align="center">
-
-## ⚡ About Me
-
-</div>
+<h2 align="center">⚡ About Me</h2>
 
 ```python
 suriya = {
@@ -43,11 +39,11 @@ suriya = {
 
 ---
 
+<h2 align="center">🎯 Domain Expertise</h2>
+
 <div align="center">
 
-## 🎯 Domain Expertise
-
- **Two domains. One engineer. Pick your lane.**
+> **Two domains. One engineer. Pick your lane.**
 
 </div>
 
@@ -61,7 +57,7 @@ suriya = {
 
 ### 🤖 ML / AI Engineer
 
-*"Building real-time intelligent system — from model training to live inference."*
+*"I build real-time intelligent systems — from model training to live inference."*
 
 </div>
 
@@ -129,7 +125,7 @@ suriya = {
 
 ### 📊 Data Analytics Engineer
 
-*"Transforming the raw data into visual stories that actually drive decisions."*
+*"I transform raw data into visual stories that actually drive decisions."*
 
 </div>
 
@@ -196,7 +192,7 @@ suriya = {
 
 <div align="center">
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=suriya-14&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=8b949e&ring_color=38bdf8" height="165"/>
 &nbsp;
@@ -210,9 +206,7 @@ suriya = {
 
 ---
 
-<div align="center">
-
-## 🏆 Achievements
+<h2 align="center">🏆 Achievements</h2>
 
 | 🏅 | Achievement |
 |:---:|:---|
@@ -226,9 +220,19 @@ suriya = {
 
 ---
 
+<h2 align="center">🗺️ Goals</h2>
+
+```
+SHORT TERM ──► Higher Studies in Germany 🇩🇪
+LONG TERM  ──► Machine Learning Engineer @ MNC 🏢
+ALWAYS     ──► Build ML systems that actually help people ⚡
+```
+
+---
+
 <div align="center">
 
-## 📫 Connect With Me
+<h2 align="center">📫 Connect With Me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suriya-v-g-)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SURIYA_V_G/)
@@ -237,7 +241,7 @@ suriya = {
 
 ---
 
-## 📊 Contribution Graph
+<h2 align="center">📊 Contribution Graph</h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=suriya-14&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true&custom_title=Suriya's%20Contribution%20Graph" width="100%"/>
 
