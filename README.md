@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/suriya-14/suriya-14/main/assets/header.svg" width="100%" alt="Suriya V G — AI & Data Science Engineer"/>
+<img src="https://github.com/suriya-14/Suriya-14/blob/main/Header.svg" width="100%" alt="Suriya V G — AI & Data Science Engineer"/>
 
 <br/>
 
