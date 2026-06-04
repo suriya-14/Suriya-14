@@ -61,7 +61,7 @@ suriya = {
 
 ### 🤖 ML / AI Engineer
 
-*"I build real-time intelligent systems — from model training to live inference."*
+*"Building real-time intelligent system — from model training to live inference."*
 
 </div>
 
@@ -223,20 +223,6 @@ suriya = {
 | 🎯 | MSME Hackathon participant with EchoAid |
 
 </div>
-
----
-
-<div align="center">
-
-## 🗺️ Goals
-
-</div>
-
-```
-SHORT TERM ──► Higher Studies in Germany 🇩🇪
-LONG TERM  ──► Machine Learning Engineer @ MNC 🏢
-ALWAYS     ──► Build ML systems that actually help people ⚡
-```
 
 ---
 
