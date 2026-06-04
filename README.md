@@ -12,11 +12,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Real-time+Emotion+Detection+%C2%B7+MicroMind;Driver+Safety+AI+%C2%B7+WakeVision;Voice+AI+for+Accessibility+%C2%B7+EchoAid;Open+to+MNC+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=suriya-14&color=38bdf8&style=flat-square&label=PROFILE+VIEWS)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/suriya-14?label=Followers&style=flat-square&color=38bdf8&labelColor=0d1117)](https://github.com/suriya-14?tab=followers)
-
 </div>
 
 ---
@@ -43,7 +38,7 @@ suriya = {
 
 <div align="center">
 
-> **Two domains. One engineer. Pick your lane.**
+ **Two domains. One engineer. Pick your lane.**
 
 </div>
 
