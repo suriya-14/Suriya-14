@@ -60,7 +60,7 @@ suriya = {
 - Custom-trained CNN + MobileNetV3 on AffectNet dataset
 - Detects **7 emotions live** via webcam & screen capture
 - OpenCV-rendered live percentage bars (no Matplotlib lag)
-- Lie detection module via emotion shift patterns *(in progress)*
+- Lie detection module via emotion shift patterns
 - YOLOv8 face detection pipeline with Haar cascade fallback
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=38bdf8)
