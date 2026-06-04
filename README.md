@@ -4,9 +4,6 @@
 
 <br/>
 
-<!-- Profile Photo -->
-<img src="https://github.com/suriya-14.png" width="500" height="500" style="border-radius: 50%;" alt="Suriya V G"/>
-
 <br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Real-time+Emotion+Detection+%C2%B7+MicroMind;Driver+Safety+AI+%C2%B7+WakeVision;Voice+AI+for+Accessibility+%C2%B7+EchoAid;Open+to+MNC+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
