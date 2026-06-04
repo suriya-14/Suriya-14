@@ -5,7 +5,7 @@
 <br/>
 
 <!-- Profile Photo -->
-<img src="https://github.com/suriya-14.png" width="130" height="130" style="border-radius: 50%;" alt="Suriya V G"/>
+<img src="https://github.com/suriya-14.png" width="500" height="500" style="border-radius: 50%;" alt="Suriya V G"/>
 
 <br/><br/>
 
