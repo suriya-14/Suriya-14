@@ -43,7 +43,7 @@ suriya = {
 
 <div align="center">
 
-> **Two domains. One engineer. Pick your lane.**
+**Two domains. One engineer. Pick your lane.**
 
 </div>
 
@@ -57,7 +57,7 @@ suriya = {
 
 ### 🤖 ML / AI Engineer
 
-*"I build real-time intelligent systems — from model training to live inference."*
+*"Building real-time intelligent systems — from model training to live inference."*
 
 </div>
 
@@ -125,7 +125,7 @@ suriya = {
 
 ### 📊 Data Analytics Engineer
 
-*"I transform raw data into visual stories that actually drive decisions."*
+*"Transforming raw data into visual stories that actually drive decisions."*
 
 </div>
 
