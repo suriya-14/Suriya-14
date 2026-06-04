@@ -47,7 +47,7 @@ suriya = {
 
 ## 🎯 Domain Expertise
 
-> **Two domains. One engineer. Pick your lane.**
+ **Two domains. One engineer. Pick your lane.**
 
 </div>
 
@@ -129,7 +129,7 @@ suriya = {
 
 ### 📊 Data Analytics Engineer
 
-*"I transform raw data into visual stories that actually drive decisions."*
+*"Transforming the raw data into visual stories that actually drive decisions."*
 
 </div>
 
