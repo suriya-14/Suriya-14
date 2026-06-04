@@ -237,7 +237,7 @@ ALWAYS     ──► Build ML systems that actually help people ⚡
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=suriya-14&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true&custom_title=Suriya's%20Contribution%20Graph" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/suriya-14/suriya-14/main/assets/footer.svg" width="100%" alt="footer"/>
+<img src="https://github.com/suriya-14/Suriya-14/blob/main/Footer.svg" width="100%" alt="footer"/>
 
 *"Discipline, ambition, and heart will take you further than talent alone." — 🛡️ Suriya*
 
