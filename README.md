@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:1a3a4a,100:38bdf8&height=220&section=header&text=Suriya%20V%20G&fontSize=56&fontAlignY=38&fontColor=f0f6fc&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=60&descSize=20&descColor=38bdf8&animation=fadeIn" width="100%"/>
 
 <br/>
 
