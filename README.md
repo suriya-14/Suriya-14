@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:1a3a4a,100:38bdf8&height=220&section=header&text=Suriya%20V%20G&fontSize=56&fontAlignY=38&fontColor=f0f6fc&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=60&descSize=20&descColor=38bdf8&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/suriya-14/suriya-14/main/assets/header.svg" width="100%" alt="Suriya V G — AI & Data Science Engineer"/>
 
 <br/>
 
@@ -12,6 +12,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Real-time+Emotion+Detection+%C2%B7+MicroMind;Driver+Safety+AI+%C2%B7+WakeVision;Voice+AI+for+Accessibility+%C2%B7+EchoAid;Open+to+MNC+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=suriya-14&color=38bdf8&style=flat-square&label=PROFILE+VIEWS)
+&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/suriya-14?label=Followers&style=flat-square&color=38bdf8&labelColor=0d1117)](https://github.com/suriya-14?tab=followers)
+
 </div>
 
 ---
@@ -38,7 +43,7 @@ suriya = {
 
 <div align="center">
 
-**Two domains. One engineer. Pick your lane.**
+> **Two domains. One engineer. Pick your lane.**
 
 </div>
 
@@ -240,7 +245,7 @@ ALWAYS     ──► Build ML systems that actually help people ⚡
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=suriya-14&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true&custom_title=Suriya's%20Contribution%20Graph" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/suriya-14/suriya-14/main/assets/footer.svg" width="100%" alt="footer"/>
 
 *"Discipline, ambition, and heart will take you further than talent alone." — 🛡️ Suriya*
 
