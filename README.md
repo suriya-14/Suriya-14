@@ -21,7 +21,7 @@ suriya = {
     "degree"      : "B.Tech – AI & Data Science (Final Year)",
     "college"     : "SNS College of Engineering, Coimbatore",
     "location"    : "Coimbatore, Tamil Nadu 🇮🇳",
-    "goal"   : "Machine Learning Engineer @ MNC 🏢",
+    "goal"        : "Machine Learning Engineer @ MNC 🏢",
     "strength"    : ["Leadership", "Problem Solving", "Visual Design"],
     "inspiration" : "Roman Reigns — Believe in yourself and push through limits",
     "fun_fact"    : "District-level Basketball Champion 🏀",
